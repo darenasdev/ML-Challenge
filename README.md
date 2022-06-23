@@ -8,3 +8,7 @@ The following terraform project ll'be create these resources:
     * Application load balancer and target group
 
 
+
+## Diagram
+
+![Alt text](ML_CHANLENGE.jpg?raw=true "Title")
